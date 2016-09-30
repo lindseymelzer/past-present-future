@@ -1,0 +1,94 @@
+body{
+  background-color: #e6ccff;
+  max-width: 680px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+
+h1{
+  color: #404040;
+  text-align:center;
+  font-family:'Caveat Brush', cursive;
+  font-size:40px;
+}
+
+h2{
+  color: #404040;
+  font-family:'Caveat Brush', cursive;
+  font-size:33px;
+}
+
+h3{
+  color: #404040;
+  font-family:'Just Another Hand', cursive;
+  font-size:30px;
+}
+
+p{
+  color: #404040;
+  font-family:'Shadows Into Light Two', cursive;
+  font-size:23px;
+  line-height:;
+}
+
+ol {
+  font-family: 'Just Another Hand', cursive;
+  font-size:27px;
+  color: #404040;
+  line-height:;
+}
+
+ul {
+  font-family: 'Just Another Hand', cursive;
+  font-size:27px;
+  color: #404040;
+  line-height:;
+}
+
+img.right {
+  float: right;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+
+img.left {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    display: block;
+}
+
+img.center {
+  display: block;
+  margin: 0 auto;
+}
+
+section{
+  clear:both;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* unvisited link */
+a:link {
+    color: lightpink;
+}
+
+/* visited link */
+a:visited {
+    color: purple;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
